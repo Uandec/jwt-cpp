@@ -1,0 +1,1 @@
+https://github.com/Thalhammer/jwt-cpp/releases/tag/v0.7.2
